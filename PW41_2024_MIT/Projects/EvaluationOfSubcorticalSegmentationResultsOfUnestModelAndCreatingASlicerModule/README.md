@@ -52,9 +52,8 @@ _No response_
 
 
 ## Progress and Next Steps
-
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+I have debugged the initial error and working on the extension to do the inference section of the model.
+In the next stage, I have to work on the extension to do the ensemble section of the Unest Model
 
 
 _No response_
